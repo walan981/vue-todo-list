@@ -1,18 +1,16 @@
 <template>
-  <CommentsPage/>
+  <CommentsPage />
 </template>
 
 <script>
-import CommentsPage from './components/CommentsPage'
+import CommentsPage from "./components/CommentsPage";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     CommentsPage,
-}
-}
+  },
+};
 </script>
 
-<style>
-
-</style>
+<style></style>
